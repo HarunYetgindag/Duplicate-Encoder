@@ -1,0 +1,15 @@
+C:\Users\Harun\Desktop\DuplicateEncoder\bin\Debug\net6.0\DuplicateEncoder.exe
+C:\Users\Harun\Desktop\DuplicateEncoder\bin\Debug\net6.0\DuplicateEncoder.deps.json
+C:\Users\Harun\Desktop\DuplicateEncoder\bin\Debug\net6.0\DuplicateEncoder.runtimeconfig.json
+C:\Users\Harun\Desktop\DuplicateEncoder\bin\Debug\net6.0\DuplicateEncoder.dll
+C:\Users\Harun\Desktop\DuplicateEncoder\bin\Debug\net6.0\DuplicateEncoder.pdb
+C:\Users\Harun\Desktop\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.csproj.AssemblyReference.cache
+C:\Users\Harun\Desktop\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harun\Desktop\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.AssemblyInfoInputs.cache
+C:\Users\Harun\Desktop\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.AssemblyInfo.cs
+C:\Users\Harun\Desktop\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Desktop\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.dll
+C:\Users\Harun\Desktop\DuplicateEncoder\obj\Debug\net6.0\refint\DuplicateEncoder.dll
+C:\Users\Harun\Desktop\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.pdb
+C:\Users\Harun\Desktop\DuplicateEncoder\obj\Debug\net6.0\DuplicateEncoder.genruntimeconfig.cache
+C:\Users\Harun\Desktop\DuplicateEncoder\obj\Debug\net6.0\ref\DuplicateEncoder.dll
