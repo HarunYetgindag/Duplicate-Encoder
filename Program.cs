@@ -1,8 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-var result = Solution("recedE");
+Console.WriteLine(Solution("din"));
+Console.WriteLine(Solution("recedE"));
+Console.WriteLine(Solution("Success"));
+Console.WriteLine(Solution("(( @"));
 
-int test = 2;
 
 static string Solution(string text)
 {
@@ -19,6 +21,6 @@ static string Solution(string text)
             newString[i] = ")";
 
     }
-    return String.Join(" ", newString);
+    return String.Join("", newString);
 
 }
